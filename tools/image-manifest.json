@@ -1,0 +1,206 @@
+{
+  "krempel": {
+    "images": [
+      "krempel-01",
+      "krempel-02",
+      "krempel-03"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-09 um 19.36.45-150.png",
+      "Data/Bildschirmfoto 2026-11-09 um 19.35.21-162.png",
+      "Data/IMG_8376 2-132.HEIC"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "setz-dich-doch": {
+    "images": [
+      "setz-dich-doch-01",
+      "setz-dich-doch-02",
+      "setz-dich-doch-03"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-09 um 19.46.18-156.png",
+      "Data/Bildschirmfoto 2026-11-09 um 19.49.12-158.png",
+      "Data/Bildschirmfoto 2026-11-09 um 19.48.23-160.png"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "verknuepft": {
+    "images": [
+      "verknuepft-01",
+      "verknuepft-02",
+      "verknuepft-03"
+    ],
+    "sources": [
+      "Data/20200906_142013-128.jpeg",
+      "Data/20200906_150637-130.jpeg",
+      "Data/20200906_161603-126.jpeg"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "vier-elemente": {
+    "images": [
+      "vier-elemente-01",
+      "vier-elemente-02",
+      "vier-elemente-03"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-06 um 11.56.14-134.png",
+      "Data/Bildschirmfoto 2026-11-06 um 11.57.57-136.png",
+      "Data/Bildschirmfoto 2026-11-06 um 11.56.35-138.png"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "worte": {
+    "images": [
+      "worte-01",
+      "worte-02",
+      "worte-03",
+      "worte-04"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-09 um 13.51.38-148.png",
+      "Data/Bildschirmfoto 2026-11-06 um 12.01.44-142.png",
+      "Data/Bildschirmfoto 2026-11-06 um 12.02.10-144.png",
+      "Data/Bildschirmfoto 2026-11-06 um 15.47.53-146.png"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "flucht-ins-weltall": {
+    "images": [
+      "flucht-ins-weltall-01",
+      "flucht-ins-weltall-02",
+      "flucht-ins-weltall-03"
+    ],
+    "sources": [
+      "Data/eingesetzter-Film-102.png",
+      "Data/IMG_8399 2-34.HEIC",
+      "Data/IMG_8394 2-32.HEIC"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "blubania": {
+    "images": [
+      "blubania-01",
+      "blubania-02",
+      "blubania-03",
+      "blubania-04",
+      "blubania-05"
+    ],
+    "sources": [
+      "Data/DSC_3438-40.jpg",
+      "Data/DSC_3500-42.jpg",
+      "Data/DSC_3571-44.jpg",
+      "Data/DSC_3590-46.jpg",
+      "Data/DSC_3754-48.jpg"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "fundbuero-25": {
+    "images": [
+      "fundbuero-25-01",
+      "fundbuero-25-02",
+      "fundbuero-25-03",
+      "fundbuero-25-04",
+      "fundbuero-25-05"
+    ],
+    "sources": [
+      "Data/Theaterratten25 (21 von 64)-50.jpg",
+      "Data/Theaterratten25 (25 von 64)-52.jpg",
+      "Data/Theaterratten25 (49 von 64)-60.jpg",
+      "Data/Theaterratten25 (39 von 64)-56.jpg",
+      "Data/Theaterratten25 (61 von 64)-62.jpg"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "liktarusa": {
+    "images": [
+      "liktarusa-01",
+      "liktarusa-02",
+      "liktarusa-03",
+      "liktarusa-04",
+      "liktarusa-05"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-06 um 20.45.16-72.png",
+      "Data/DSC_4015-78.jpg",
+      "Data/DSC_4001-76.jpg",
+      "Data/DSC_4036-80.jpg",
+      "Data/DSC_4117-82.jpg"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "aeggsguesi": {
+    "images": [
+      "aeggsguesi-01",
+      "aeggsguesi-02",
+      "aeggsguesi-03",
+      "aeggsguesi-04"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-05 um 12.48.26-66.png",
+      "Data/Bildschirmfoto 2026-11-05 um 12.46.28-64.png",
+      "Data/Bildschirmfoto 2026-11-06 um 20.42.59-70.png",
+      "Data/Bildschirmfoto 2026-11-06 um 20.41.08-68.png"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "beni-bens-bude": {
+    "images": [
+      "beni-bens-bude-01",
+      "beni-bens-bude-02",
+      "beni-bens-bude-03"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-09 um 13.58.49-114.png",
+      "Data/Bildschirmfoto 2026-11-09 um 14.00.41-116.png",
+      "Data/Bildschirmfoto 2026-11-09 um 14.02.20-118.png"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "broccoli-und-zuckerschock": {
+    "images": [
+      "broccoli-und-zuckerschock-01",
+      "broccoli-und-zuckerschock-02",
+      "broccoli-und-zuckerschock-03",
+      "broccoli-und-zuckerschock-04",
+      "broccoli-und-zuckerschock-05"
+    ],
+    "sources": [
+      "Data/IMG_3417 2-90.JPG",
+      "Data/IMG_3416-92.JPG",
+      "Data/IMG_3413 2-84.JPG",
+      "Data/IMG_3414 2-86.JPG",
+      "Data/IMG_3418-94.JPG"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "momo": {
+    "images": [
+      "momo-01",
+      "momo-02",
+      "momo-03",
+      "momo-04"
+    ],
+    "sources": [
+      "Data/Bildschirmfoto 2026-11-05 um 13.28.32-110.png",
+      "Data/Bildschirmfoto 2026-11-09 um 13.48.43-112.png",
+      "Data/Bildschirmfoto 2026-11-05 um 13.27.52-106.png",
+      "Data/Bildschirmfoto 2026-11-05 um 13.28.17-108.png"
+    ],
+    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
+  },
+  "komplizinnen": {
+    "images": [
+      "komplizinnen-01",
+      "komplizinnen-02",
+      "komplizinnen-03"
+    ],
+    "sources": [
+      "Komplizinnen/Bildschirmfoto 2026-11-06 um 12.56.14.png",
+      "Komplizinnen/Bildschirmfoto 2026-11-06 um 12.56.41.png",
+      "Komplizinnen/Bildschirmfoto 2026-11-06 um 12.58.08.png"
+    ],
+    "order_note": "Für dieses Projekt enthält die Fotoübersicht keine Bildfolge; Reihenfolge nach Dateinamen."
+  }
+}
