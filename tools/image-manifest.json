@@ -1,17 +1,4 @@
 {
-  "krempel": {
-    "images": [
-      "krempel-01",
-      "krempel-02",
-      "krempel-03"
-    ],
-    "sources": [
-      "Data/Bildschirmfoto 2026-11-09 um 19.36.45-150.png",
-      "Data/Bildschirmfoto 2026-11-09 um 19.35.21-162.png",
-      "Data/IMG_8376 2-132.HEIC"
-    ],
-    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
-  },
   "setz-dich-doch": {
     "images": [
       "setz-dich-doch-01",
@@ -35,34 +22,6 @@
       "Data/20200906_142013-128.jpeg",
       "Data/20200906_150637-130.jpeg",
       "Data/20200906_161603-126.jpeg"
-    ],
-    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
-  },
-  "vier-elemente": {
-    "images": [
-      "vier-elemente-01",
-      "vier-elemente-02",
-      "vier-elemente-03"
-    ],
-    "sources": [
-      "Data/Bildschirmfoto 2026-11-06 um 11.56.14-134.png",
-      "Data/Bildschirmfoto 2026-11-06 um 11.57.57-136.png",
-      "Data/Bildschirmfoto 2026-11-06 um 11.56.35-138.png"
-    ],
-    "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
-  },
-  "worte": {
-    "images": [
-      "worte-01",
-      "worte-02",
-      "worte-03",
-      "worte-04"
-    ],
-    "sources": [
-      "Data/Bildschirmfoto 2026-11-09 um 13.51.38-148.png",
-      "Data/Bildschirmfoto 2026-11-06 um 12.01.44-142.png",
-      "Data/Bildschirmfoto 2026-11-06 um 12.02.10-144.png",
-      "Data/Bildschirmfoto 2026-11-06 um 15.47.53-146.png"
     ],
     "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
   },
@@ -148,13 +107,11 @@
   "beni-bens-bude": {
     "images": [
       "beni-bens-bude-01",
-      "beni-bens-bude-02",
-      "beni-bens-bude-03"
+      "beni-bens-bude-02"
     ],
     "sources": [
       "Data/Bildschirmfoto 2026-11-09 um 13.58.49-114.png",
-      "Data/Bildschirmfoto 2026-11-09 um 14.00.41-116.png",
-      "Data/Bildschirmfoto 2026-11-09 um 14.02.20-118.png"
+      "Data/Bildschirmfoto 2026-11-09 um 14.00.41-116.png"
     ],
     "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
   },
@@ -179,14 +136,12 @@
     "images": [
       "momo-01",
       "momo-02",
-      "momo-03",
-      "momo-04"
+      "momo-03"
     ],
     "sources": [
       "Data/Bildschirmfoto 2026-11-05 um 13.28.32-110.png",
       "Data/Bildschirmfoto 2026-11-09 um 13.48.43-112.png",
-      "Data/Bildschirmfoto 2026-11-05 um 13.27.52-106.png",
-      "Data/Bildschirmfoto 2026-11-05 um 13.28.17-108.png"
+      "Data/Bildschirmfoto 2026-11-05 um 13.27.52-106.png"
     ],
     "order_note": "Visuelle Leserichtung der Fotoübersicht: von links nach rechts, dann nächste Bildzeile."
   },
@@ -194,13 +149,31 @@
     "images": [
       "komplizinnen-01",
       "komplizinnen-02",
-      "komplizinnen-03"
+      "komplizinnen-03",
+      "komplizinnen-04",
+      "komplizinnen-05",
+      "komplizinnen-06"
     ],
     "sources": [
       "Komplizinnen/Bildschirmfoto 2026-11-06 um 12.56.14.png",
       "Komplizinnen/Bildschirmfoto 2026-11-06 um 12.56.41.png",
-      "Komplizinnen/Bildschirmfoto 2026-11-06 um 12.58.08.png"
+      "Komplizinnen/Bildschirmfoto 2026-11-06 um 12.58.08.png",
+      "gemeinsam Komplizinnen 1.HEIC",
+      "gemeinsam Komplizinnen 2.HEIC",
+      "gemeinsam Komplizinnen 3.png"
     ],
     "order_note": "Für dieses Projekt enthält die Fotoübersicht keine Bildfolge; Reihenfolge nach Dateinamen."
+  },
+  "kinderliteratur": {
+    "images": [
+      "buch-opa",
+      "buch-boyce",
+      "buch-pablo"
+    ],
+    "sources": [
+      "Kinderliteratur/Data/image_f3b08128-26.jpg",
+      "Kinderliteratur/Data/Bildschirmfoto 2026-11-13 um 13.46.08-28.png",
+      "Kinderliteratur/Data/image_895ece4b-24.jpg"
+    ]
   }
 }

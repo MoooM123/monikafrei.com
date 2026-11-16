@@ -6,10 +6,9 @@ menuButton?.addEventListener('click', () => { const open=menuButton.getAttribute
 nav?.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeMenu();}});
 document.addEventListener('click',e=>{if(!e.target.closest('.site-header'))closeMenu();});
-const descriptions={all:'',forschung:'Theater als Labor: Lebenswelten spielerisch erforschen, Fragen stellen und neue Perspektiven entdecken.',schulhaus:'Konzepterarbeitung, Inputworkshops, Begleitung und Inszenierung. Gemeinsam verwandeln wir Schulhäuser in lebendige Spielräume.',buehne:'Gemeinsame Stückentwicklung und Inszenierung mit Schulklassen, Spielclubs und Theatergruppen.'};
 const filters=document.querySelectorAll('[data-filter]');
 const cards=document.querySelectorAll('[data-category]');
-filters.forEach(button=>button.addEventListener('click',()=>{const chosen=button.dataset.filter; filters.forEach(b=>b.setAttribute('aria-pressed',String(b===button))); let count=0; cards.forEach(card=>{card.hidden=chosen!=='all'&&card.dataset.category!==chosen;if(!card.hidden)count++;});document.querySelector('.project-grid')?.classList.toggle('filtered',chosen!=='all');const desc=document.querySelector('.filter-description');if(desc)desc.textContent=descriptions[chosen];const status=document.querySelector('#filter-status');if(status)status.textContent=`${count} Projekte angezeigt`; }));
+filters.forEach(button=>button.addEventListener('click',()=>{const chosen=button.dataset.filter; filters.forEach(b=>b.setAttribute('aria-pressed',String(b===button))); let count=0; cards.forEach(card=>{card.hidden=chosen!=='all'&&card.dataset.category!==chosen;if(!card.hidden)count++;});document.querySelectorAll('[data-description]').forEach(d=>d.hidden=d.dataset.description!==chosen);const status=document.querySelector('#filter-status');if(status)status.textContent=`${count} Projekte angezeigt`; }));
 const galleryButtons=[...document.querySelectorAll('[data-gallery]')];
 if(galleryButtons.length){
  const dialog=document.createElement('dialog');dialog.className='lightbox';dialog.setAttribute('aria-label','Projektbilder');

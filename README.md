@@ -29,15 +29,16 @@ Offizielle Anleitung: https://docs.github.com/en/pages/getting-started-with-gith
 ## Enthalten
 
 - Startseite mit Projektfilter, Kinderliteratur, Über-mich-Einblick und Kontakt
-- 13 Projektseiten mit 50 Bildern in der Leserichtung der Fotoübersicht
-- Eigene Seite für «gemeinsam Kompliz:innen» mit drei zusätzlichen Bildern
+- 10 Projektseiten mit 38 Bildern in der Leserichtung der Fotoübersicht
+- Eigene Seite für «gemeinsam Kompliz:innen» mit sechs Bildern
+- Seite «Kinderliteratur» mit Leseproben aus drei Büchern
 - PDF-Vorschau und PDF-Download des unveränderten Originaldokuments
 - Vollständige Biografie und Projektverzeichnis
 - Impressum und technische Datenschutzinformationen
 - Tastaturbedienbare Bildergalerie mit Pfeiltasten und Escape
 - Mobiles Menü, reduzierte Bewegung entsprechend der Geräteeinstellung
 
-Kontakt: **monikafrei@bluewin.ch**. Bestätigte Jahreszahlen: **Fundbüro 25 – 2025**, **Äggsgüsi – 2024**.
+Kontakt: **monikafrei@bluewin.ch**. Bestätigte Jahreszahlen: **Fundbüro 25 – 2025**, **Liktarusa – 2025**, **Äggsgüsi – 2023**, **Setz dich doch – 2022**.
 
 ## Inhalte bearbeiten
 
@@ -45,7 +46,7 @@ Die HTML-Dateien lassen sich direkt bearbeiten. Das Erscheinungsbild steht in `a
 
 Zusätzlich sind die Erstellungsquellen im Ordner `tools/` enthalten:
 
-- `content.py`: Projekttexte, Jahreszahlen, Biografie und Kategorien
+- `content.py`: Projekttexte, Jahreszahlen, Biografie, Kategorien, Projektverzeichnis und Leseproben
 - `image-manifest.json`: Bildzuordnung und Reihenfolge
 - `build.py`: gemeinsame Seitenvorlagen und weitere Seitentexte
 
@@ -59,7 +60,7 @@ Dabei werden vorhandene HTML-Dateien überschrieben. Deshalb entweder die Quelle
 
 ## Redaktionelle Entscheidungen
 
-«Text Website» bildet die Inhaltsgrundlage. Doppelte Entwurfsabschnitte wurden zusammengeführt, offensichtliche Tippfehler geglättet und interne Kommentare nicht veröffentlicht. Der Kinderliteratur-Bereich basiert auf den Angaben der Biografie; es wurden keine Buchtitel oder Veröffentlichungen ergänzt.
+«Text Website» bildet die Inhaltsgrundlage. Doppelte Entwurfsabschnitte wurden zusammengeführt, offensichtliche Tippfehler geglättet und interne Kommentare nicht veröffentlicht. Die Leseproben auf der Kinderliteratur-Seite sind unverändert aus Monas Vorlage übernommen (inklusive «ß» wie im Buch).
 
 Die Bildfolge folgt der Fotoübersicht von links nach rechts, danach der nächsten Bildzeile. Für «gemeinsam Kompliz:innen» enthält die Übersicht keine Bildfolge; hier sind die drei bereitgestellten Bildschirmfotos chronologisch nach Dateinamen angeordnet. Bekannte Fotograf:innen sind auf den jeweiligen Projektseiten genannt. Die WebP-Dateien enthalten keine übernommenen EXIF-Daten.
 
@@ -70,11 +71,12 @@ index.html
 ueber-mich.html
 projektverzeichnis.html
 gemeinsam-komplizinnen.html
+kinderliteratur.html
 impressum.html
 projekte/                  Projektseiten
 assets/style.css           Gestaltung
 assets/main.js             Menü, Filter und Bildergalerie
-assets/images/             55 optimierte Bilder
+assets/images/             49 optimierte Bilder
 assets/downloads/          Konzept-PDF
 tools/                     Optionale Erstellungsquellen
 .nojekyll
